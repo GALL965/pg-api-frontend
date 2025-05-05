@@ -1,4 +1,4 @@
-const API_URL = "http://localhost:8080/api/artworks";
+const API_URL = 'https://artworks-pg-backend.onrender.com/api/artworks';
 
 // Obtener obras
 async function getArtworks() {
