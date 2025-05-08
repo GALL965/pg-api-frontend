@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600&display=swap');
 
 body::before {
-  content: "";
+  content: ""; /*e*/
   position: fixed;
   top: 0; left: 0;
   width: 100%;
